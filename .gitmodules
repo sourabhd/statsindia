@@ -1,0 +1,3 @@
+[submodule "thirdparty/maps"]
+	path = thirdparty/maps
+	url = https://github.com/datameet/maps.git
