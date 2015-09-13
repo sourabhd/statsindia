@@ -3,3 +3,5 @@ psutil
 logging
 importlib
 web2py
+pdb
+bokeh
