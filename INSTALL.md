@@ -15,4 +15,6 @@ pip install --user -r requirements.txt
 2) Third party softwares
 
 i) Datameet Maps data
+
+cd thirdparty
 git clone https://github.com/datameet/maps.git
